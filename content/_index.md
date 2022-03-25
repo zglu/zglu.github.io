@@ -1,6 +1,6 @@
 ![me](/images/zl.png) *Hello / Guten Tag*
 
-I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`.
+*I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`.*
 
 I work mostly on parasitic flatworms of *Schistosoma* species.
 

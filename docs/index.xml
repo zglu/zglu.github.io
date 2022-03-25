@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhigang Lu</title>
+    <link>https://zglu.github.io/</link>
+    <description>Recent content on Zhigang Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://zglu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://zglu.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zglu.github.io/publications/</guid>
+      <description>h-index: 11 Links to my Google Scholar and ResearchGate
+2022  Buddenborg, S. K., Tracey, A., Berger, D. J., Lu, Z., Doyle, S. R., Fu, B., et al. (2021). Assembled chromosomes of the blood fluke Schistosoma mansoni provide insight into the evolution of its ZW sex-determination system. BMC Biol. (in revision) /bioRxiv. 2021.08.13.456314  2021  Rawlinson, K. A., Reid, A. J., Lu, Z., Driguez, P., Wawer, A., Coghlan, A., et al.</description>
+    </item>
+    
+  </channel>
+</rss>

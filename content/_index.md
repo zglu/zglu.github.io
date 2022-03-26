@@ -1,6 +1,6 @@
 ![me](/images/zl.png) *Hello / Guten Tag*
 
-*I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`.*
+I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`.
 
 I work mostly on parasitic flatworms of *Schistosoma* species.
 
@@ -59,7 +59,7 @@ I work mostly on parasitic flatworms of *Schistosoma* species.
 
 ## Bioinformatics and coding
 
-I write code mostly in Bash, R and Python.
+I write code mostly in <mark>Bash, R and Python</mark>.
 
 - ### Testing functional enrichment in genes of interest
 >Can use GO, Pfam, InterPro, or KEGG Pathway annotations [Scripts](https://github.com/zglu/Gene-function-enrichment)

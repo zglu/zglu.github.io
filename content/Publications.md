@@ -37,7 +37,7 @@ Links to my [Google Scholar](https://scholar.google.com/citations?user=JGrDkIUAA
 
 ### 2016
 - Blohm AS, Mäder P, Quack T, **Lu Z**, Hahnel S, Schlitzer M, et al. (2016). Derivatives of biarylalkyl carboxylic acid induce pleiotropic phenotypes in adult *Schistosoma mansoni* in vitro. Parasitol. Res. 115, 3831–3842. doi:10.1007/s00436-016-5146-7.
-- **Lu Z**, Sessler F, Holroyd N, Hahnel S, Quack T, Berriman M, et al. (2016). Schistosome sex matters: A deep view into gonad-specific and pairing-dependent transcriptomes reveals a complex gender interplay. [Sci. Rep.](https://www.nature.com/articles/srep31150) 6. doi:10.1038/srep31150. (
+- **Lu Z**, Sessler F, Holroyd N, Hahnel S, Quack T, Berriman M, et al. (2016). Schistosome sex matters: A deep view into gonad-specific and pairing-dependent transcriptomes reveals a complex gender interplay. [Sci. Rep.](https://www.nature.com/articles/srep31150) 6. doi:10.1038/srep31150.
 > featured in [Science](https://www.science.org/doi/10.1126/science.2016.353.6304.twil) Editor’s Choice “Sexual development in schistosomes”)
 
 ### 2015 and earlier 

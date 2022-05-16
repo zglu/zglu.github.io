@@ -1,6 +1,6 @@
 ---
 title: "SingleCellAtlas"
-draft: true
+draft: false
 ---
 
 Collection of single cell atlas paper and data protals.

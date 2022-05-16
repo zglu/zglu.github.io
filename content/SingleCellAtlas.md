@@ -1,5 +1,6 @@
 ---
 title: "SingleCellAtlas"
+menu: "main"
 draft: false
 ---
 

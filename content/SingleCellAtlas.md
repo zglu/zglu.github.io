@@ -6,7 +6,7 @@ draft: false
 
 ## Single Cell Atlas
 
-Collection of single cell atlas papers and data protals.
+Collection of single cell atlas papers and data portals.
 
 ### [Mapping cell types across human tissues](https://www.science.org/doi/10.1126/science.abq2116)
 

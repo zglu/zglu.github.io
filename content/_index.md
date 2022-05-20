@@ -59,7 +59,7 @@ I work mostly on parasitic flatworms of *Schistosoma* species.
 
 ## Bioinformatics and coding
 
-I write code mostly in <mark>Bash, R and Python</mark>.
+I write code mostly in <mark>Bash, R and Python</mark>, and use [nextflow](https://www.nextflow.io/) to build analysis pipelines. 
 
 - ### Testing functional enrichment in genes of interest
 >Can use GO, Pfam, InterPro, or KEGG Pathway annotations [Scripts](https://github.com/zglu/Gene-function-enrichment)

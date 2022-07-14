@@ -14,6 +14,8 @@ Collection of single cell atlas papers and data portals.
 - [The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans](https://www.science.org/doi/10.1126/science.abl4896) [https://tabula-sapiens-portal.ds.czbiohub.org/]
 - [Cross-tissue immune cell analysis reveals tissue-specific features in humans](https://www.science.org/doi/10.1126/science.abl5197) [https://www.celltypist.org/]
 - [Mapping the developing human immune system across organs](https://www.science.org/doi/10.1126/science.abo0510)
+- [Brain Cell Network](https://www.nature.com/collections/cicghheddj) [https://biccn.org/]
+- [Cells of the adult human heart](https://www.nature.com/articles/s41586-020-2797-4) [http://www.heartcellatlas.org/]
 
 
 ***

@@ -8,6 +8,7 @@ Selected tools for single-cell and spatial transcriptomics.
 
 ### scRNA-seq
 - [Zero-preserving imputation: ALRA](https://www.nature.com/articles/s41467-021-27729-z)
+- [Reference-based cell type annotation: SingleR](http://bioconductor.org/books/release/SingleRBook/introduction.html)
 
 ***
 

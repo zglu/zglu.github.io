@@ -14,7 +14,7 @@ Selected tools for single-cell and spatial transcriptomics.
 
 ### spatial transcriptomics
 - [segmentation-free inference of cell types: SSAM & SSAM lite](https://www.nature.com/articles/s41467-021-23807-4)
-
+- [SpatialDE: identification of spatially variable genes](https://github.com/Teichlab/SpatialDE)
 ***
 
 ### Integration of single cell data

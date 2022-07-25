@@ -11,7 +11,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - [SingelR: Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
 - [HotSpot: identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
 - [SCENIC/pySCENIC: Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
-
+- [MACA: marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
 ***
 
 ### spatial transcriptomics

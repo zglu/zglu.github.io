@@ -7,15 +7,18 @@ draft: false
 Selected tools for single-cell and spatial transcriptomics.
 
 ### scRNA-seq
-- [Zero-preserving imputation: ALRA](https://www.nature.com/articles/s41467-021-27729-z)
-- [Reference-based cell type annotation: SingleR](http://bioconductor.org/books/release/SingleRBook/introduction.html)
-- [Single-cell regulatory network and clustering: SCENIC](https://scenic.aertslab.org/)
+- [ALRA: Zero-preserving imputation](https://www.nature.com/articles/s41467-021-27729-z)
+- [SingelR: Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
+- [HotSpot: identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
+- [SCENIC/pySCENIC: Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
 
 ***
 
 ### spatial transcriptomics
-- [segmentation-free inference of cell types: SSAM & SSAM lite](https://www.nature.com/articles/s41467-021-23807-4)
+- [SSAM (lite): segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
 - [SpatialDE: identification of spatially variable genes](https://github.com/Teichlab/SpatialDE)
+- [BayesSpace: Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
+
 ***
 
 ### Integration of single cell data

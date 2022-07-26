@@ -1,6 +1,6 @@
 ![me](/images/zl.png) *Hello / Guten Tag*
 
-I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`. I have been recently experiencing spatial transcriptomics.
+I am a biologist interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`. I have been recently experiencing spatial transcriptomics.
 
 I work mostly on parasitic flatworms of *Schistosoma* species.
 
@@ -8,10 +8,10 @@ I work mostly on parasitic flatworms of *Schistosoma* species.
 
 ## Professional experience
 
-- PhD @Giessen (*Dr.rer.nat* in Biology) work on isolation, molecular characterisation, and comparative transcriptomics of *S. mansoni* reproductive organs. 
-- PostDoc @Giessen: single cell preparation and sequencing (scRNA-seq); data integration and visualisation
-- [Computational Biologist](https://www.sanger.ac.uk/person/lu-zhigang/) @Sanger: genome assembly and [annotation](https://zglu.github.io/html_slides_charts/v7-annotation.html#/), omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
-- Data Scientist/Bioinformatician: project conception, bioinformatics analysis, scRNA-seq data analysis   
+- -2022 Data Scientist/Bioinformatician: project conception, bioinformatics analysis, scRNA-seq data analysis   
+- -2020 [Computational Biologist](https://www.sanger.ac.uk/person/lu-zhigang/) @Sanger: genome assembly and [annotation](https://zglu.github.io/html_slides_charts/v7-annotation.html#/), omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
+- -2017 PostDoc @Giessen: single cell preparation and sequencing (scRNA-seq); data integration and visualisation
+- 2015 PhD @Giessen (*Dr.rer.nat* in Biology) work on isolation, molecular characterisation, and comparative transcriptomics of *S. mansoni* reproductive organs. 
 
 ## Selected work 
 

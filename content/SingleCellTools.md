@@ -54,17 +54,17 @@ Selected tools for single-cell and spatial transcriptomics.
 - [RCTD/spacexr](https://github.com/dmcable/spacexr) (R)
 - scmap
 - [SingleR](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
-- [CelliD: clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD))
+- CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD))
 
 #### Marker-based
 
-- [AUCell: cells with active gene sets](https://www.bioconductor.org/packages/devel/bioc/vignettes/AUCell/inst/doc/AUCell.html)
+- AUCell: [cells with active gene sets](https://www.bioconductor.org/packages/devel/bioc/vignettes/AUCell/inst/doc/AUCell.html)
 - GSEA/GSVA (for clusters)
 - [SCINA](https://github.com/jcao89757/SCINA) (for cells)
 
 #### Knowledge-based clustering and annotation
 
-- [UNIFAN: using known gene sets + neural network](https://genome.cshlp.org/content/early/2022/06/28/gr.276609.122.long)  
+- UNIFAN: [using known gene sets + neural network](https://genome.cshlp.org/content/early/2022/06/28/gr.276609.122.long)  
  
 
 ***

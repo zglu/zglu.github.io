@@ -17,11 +17,11 @@ Selected tools for single-cell and spatial transcriptomics.
 ***
 
 ### spatial transcriptomics
-- [Giotto: toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/)
-- [SSAM (lite): segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
-- [SpatialDE: identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
-- [Spark: Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
-- [BayesSpace: Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
+- Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/)
+- SSAM (lite): [segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
+- SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
+- Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
+- BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
 
 ***
 

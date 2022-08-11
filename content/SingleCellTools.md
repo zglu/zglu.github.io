@@ -7,12 +7,13 @@ draft: false
 Selected tools for single-cell and spatial transcriptomics.
 
 ### scRNA-seq
-- [ALRA: Zero-preserving imputation](https://www.nature.com/articles/s41467-021-27729-z)
-- [SingelR: Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
-- [HotSpot: identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
-- [SCENIC/pySCENIC: Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
-- [MACA: marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
-- [SpaOTsc: spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5)([py](https://github.com/zcang/SpaOTsc))
+- ALRA: [Zero-preserving imputation](https://www.nature.com/articles/s41467-021-27729-z)
+- SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
+- HotSpot: [identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
+- SCENIC/pySCENIC: [Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
+- MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
+- SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5)([py](https://github.com/zcang/SpaOTsc))
+- PROGENy & decoupleR: [inference of pathway activities](https://saezlab.github.io/progeny/articles/progeny.html) (human & mouse)
 ***
 
 ### spatial transcriptomics

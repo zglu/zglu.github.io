@@ -10,7 +10,6 @@ Selected tools for single-cell and spatial transcriptomics.
 - ALRA: [Zero-preserving imputation](https://www.nature.com/articles/s41467-021-27729-z)
 - HotSpot: [identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
 - SCENIC/pySCENIC: [Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
-- MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
 - SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5)([py](https://github.com/zcang/SpaOTsc))
 - PROGENy & decoupleR: [inference of pathway activities](https://saezlab.github.io/progeny/articles/progeny.html) (human & mouse)
 ***
@@ -45,6 +44,7 @@ Selected tools for single-cell and spatial transcriptomics.
 
 - [Comparison of visualization tools for single-cell RNAseq data](https://academic.oup.com/nargab/article/2/3/lqaa052/5877814)
 - [Seurat interactive plotting](https://satijalab.org/seurat/articles/visualization_vignette.html#interactive-plotting-features-1) (`HoverLocator()`)
+- [Plotly.R](https://plotly.com/r/)
 
 ### Automated cell type annotation [Turorial](https://www.nature.com/articles/s41596-021-00534-0)
 
@@ -60,6 +60,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - AUCell: [cells with active gene sets](https://www.bioconductor.org/packages/devel/bioc/vignettes/AUCell/inst/doc/AUCell.html)
 - GSEA/GSVA: [gene set enrichment analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-7) ([test](https://github.com/jdime/scRNAseq_cell_cluster_labeling)) (for clusters)
 - SCINA: [Semi-Supervised Cell Type Detection and Assignment](https://lce.biohpc.swmed.edu/scina/) ([R](https://github.com/jcao89757/SCINA)) (for cells)
+- MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
 
 #### Knowledge-based clustering and annotation
 

@@ -54,6 +54,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - scmap: [unsupervised projection of scRNA-seq data](https://scmap.sanger.ac.uk/han2018/) (R)
 - SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
 - CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD))
+- ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
 
 #### Marker-based
 

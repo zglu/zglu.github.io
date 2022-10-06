@@ -3,7 +3,7 @@ title = "Publications"
 menu = "main"
 +++
 
-## *h*-index: 11 
+## *h*-index: 12 
 
 Links to my [Google Scholar](https://scholar.google.com/citations?user=JGrDkIUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Zhigang-Lu)
 

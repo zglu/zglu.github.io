@@ -12,6 +12,10 @@ Selected tools for single-cell and spatial transcriptomics.
 - SCENIC/pySCENIC: [Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
 - SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5)([py](https://github.com/zcang/SpaOTsc))
 - PROGENy & decoupleR: [inference of pathway activities](https://saezlab.github.io/progeny/articles/progeny.html) (human & mouse)
+- MetaNeighbor: [characterizing the replicability of cell types across datasets](https://www.nature.com/articles/s41596-021-00575-5) ([R](https://www.bioconductor.org/packages/release/bioc/html/MetaNeighbor.html))
+- SAMap: [mapping cell atlas manifolds across species](https://github.com/atarashansky/SAMap) (py)
+- MAGIC: [imputing missing values and restoring the structure of single-cell data](https://www.krishnaswamylab.org/projects/magic) ([R & py](https://github.com/KrishnaswamyLab/MAGIC))
+
 ***
 
 ### spatial transcriptomics

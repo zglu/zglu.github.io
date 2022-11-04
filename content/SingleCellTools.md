@@ -10,7 +10,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - ALRA: [Zero-preserving imputation](https://www.nature.com/articles/s41467-021-27729-z)
 - HotSpot: [identifies informative gene modules](https://hotspot.readthedocs.io/en/latest/) ([pip install hotspotsc==0.9.1](https://yoseflab.github.io/Hotspot/))
 - SCENIC/pySCENIC: [Single-cell regulatory network and clustering](https://scenic.aertslab.org/)
-- SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5)([py](https://github.com/zcang/SpaOTsc))
+- SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
 - PROGENy & decoupleR: [inference of pathway activities](https://saezlab.github.io/progeny/articles/progeny.html) (human & mouse)
 - MetaNeighbor: [characterizing the replicability of cell types across datasets](https://www.nature.com/articles/s41596-021-00575-5) ([R](https://www.bioconductor.org/packages/release/bioc/html/MetaNeighbor.html))
 - SAMap: [mapping cell atlas manifolds across species](https://github.com/atarashansky/SAMap) (py)
@@ -24,6 +24,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
+- DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)]()
 
 ***
 

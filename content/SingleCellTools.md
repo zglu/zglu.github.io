@@ -24,7 +24,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
-- DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)]()
+- DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)
 
 ***
 

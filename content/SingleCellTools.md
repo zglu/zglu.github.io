@@ -79,6 +79,16 @@ Selected tools for single-cell and spatial transcriptomics.
  
 
 ***
+### Cell segmentation
+
+- cellpose
+- deepCell
+- deepImageJ
+- CellProfiler
+- ilastik
+- NucleAlzer
+
+***
 
 ### Other tools
 

@@ -60,6 +60,8 @@ Selected tools for single-cell and spatial transcriptomics.
 - [iSEE](https://github.com/iSEE/iSEE) (R)
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene)
 
+***
+
 ### Automated cell type annotation [Turorial](https://www.nature.com/articles/s41596-021-00534-0)
 
 #### Reference-based

@@ -24,7 +24,11 @@ Selected tools for single-cell and spatial transcriptomics.
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
+- SpaGCN: [spatial domains and SVGs by graph convolutional network](https://github.com/jianhuupenn/SpaGCN)
+- GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
 - DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)
+- RCTD: [Robust Cell Type Decomposition](https://raw.githack.com/dmcable/spacexr/master/vignettes/spatial-transcriptomics.html)
+- C-SIDE: [Cell type-specific inference of differential expression](https://raw.githack.com/dmcable/spacexr/master/vignettes/differential-expression.html) ([spacexr](https://github.com/dmcable/spacexr) = RCTD + C-SIDE; [Vignettes](https://github.com/dmcable/spacexr/tree/master/vignettes))
 
 ***
 

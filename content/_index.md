@@ -76,7 +76,7 @@ I write code mostly in <mark>Bash, R and Python</mark>. I build and run Docker/S
 >gff2fasta, extract up-downstream sequences, etc. [Scripts](https://github.com/zglu/Scripts_Bioinfo/tree/master/Python)
 
 - ### Interactive charting (fun project)
->Javascript-based tool for interactive plotting: [ivis](ivis.netlify.app)
+>Javascript-based tool for interactive plotting: [ivis](https://ivis.netlify.app)
 
 ![ivis](/images/ivis.png)
 

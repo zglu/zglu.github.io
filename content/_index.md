@@ -1,16 +1,17 @@
 ![me](/images/zl.png) *Hello / Guten Tag*
 
-I am a biologist interested in gene expression and regulation, functional genomics, and drug targets discovery. I explore `multi-omics` data, perform `bioinformatics` analysis, and apply machine learning `modelling`. I have been recently experiencing spatial transcriptomics.
+I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics). I also perform bioinformatics analysis and apply machine learning modelling.
 
-I work mostly on parasitic flatworms of *Schistosoma* species.
+I worked mostly on parasitic flatworms of *Schistosoma* species in the past years and now on various organisms.
 
 ![mywordcloud](/images/wordcloud2.png)
 
 ## Professional experience
 
-- -2022 Data Scientist/Bioinformatician: project conception, bioinformatics analysis, scRNA-seq data analysis   
-- -2020 [Computational Biologist](https://www.sanger.ac.uk/person/lu-zhigang/) @Sanger: genome assembly and [annotation](https://zglu.github.io/html_slides_charts/v7-annotation.html#/), omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
-- -2017 PostDoc @Giessen: single cell preparation and sequencing (scRNA-seq); data integration and visualisation
+- 2022- Senior Bioinformatician @BGI-Research (Europe): single-cell and spatial multi-omics data, pipeline development, data management. 
+- 2020-2022 Data Scientist/Bioinformatician: project conception, bioinformatics analysis, scRNA-seq data analysis   
+- 2017-2020 [Computational Biologist](https://www.sanger.ac.uk/person/lu-zhigang/) @Sanger: genome assembly and [annotation](https://zglu.github.io/html_slides_charts/v7-annotation.html#/), omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
+- 2015-2017 PostDoc @Giessen: single cell preparation and sequencing (scRNA-seq); data integration and visualisation
 - 2015 PhD @Giessen (*Dr.rer.nat* in Biology) work on isolation, molecular characterisation, and comparative transcriptomics of *S. mansoni* reproductive organs. 
 
 ## Selected work 
@@ -59,7 +60,7 @@ I work mostly on parasitic flatworms of *Schistosoma* species.
 
 ## Bioinformatics and coding
 
-I write code mostly in <mark>Bash, R and Python</mark>, and use [nextflow](https://www.nextflow.io/) to build analysis pipelines. 
+I write code mostly in <mark>Bash, R and Python</mark>. I build and run Docker/Singularity images for local data analysis, and use AWS for cloud computing.
 
 - ### Testing functional enrichment in genes of interest
 >Can use GO, Pfam, InterPro, or KEGG Pathway annotations [Scripts](https://github.com/zglu/Gene-function-enrichment)

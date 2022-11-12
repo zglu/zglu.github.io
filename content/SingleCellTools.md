@@ -59,6 +59,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - [UCSC Cell Browser](https://cellbrowser.readthedocs.io/en/master/index.html)
 - [iSEE](https://github.com/iSEE/iSEE) (R)
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene)
+- [Cirrocumulus](https://cirrocumulus.readthedocs.io/en/latest/)
 
 ***
 
@@ -88,12 +89,12 @@ Selected tools for single-cell and spatial transcriptomics.
 ***
 ### Cell segmentation
 
-- cellpose
-- deepCell
-- deepImageJ
-- CellProfiler
-- ilastik
-- NucleAlzer
+- [CellPose](https://www.cellpose.org/) ([train a model using Cellpose 2.0](https://www.nature.com/articles/s41592-022-01663-4))
+- [DeepCell](https://github.com/vanvalenlab/intro-to-deepcell)
+- [deepImageJ](https://deepimagej.github.io/deepimagej/)
+- [CellProfiler](https://cellprofiler.org/)
+- [ilastik](https://www.ilastik.org/)
+- [NucleAlzer](https://www.nucleaizer.org/)
 
 ***
 

@@ -22,6 +22,7 @@ Collection of single cell atlas papers and data portals.
 
 ### [Spatio-temporal development of model organisms](https://www.cell.com/consortium/spatiotemporal-omics)
 
+- [Spatial Transcript Omics DataBase (STOmics DB)](https://db.cngb.org/stomics/analysis/gene_search)
 - [Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays](https://www.cell.com/cell/fulltext/S0092-8674(22)00399-3) [https://db.cngb.org/stomics/mosta/]
 - [High-resolution 3D spatiotemporal transcriptomic maps of developing Drosophila embryos and larvae](https://www.cell.com/developmental-cell/fulltext/S1534-5807(22)00246-5) [https://db.cngb.org/stomics/flysta3d/]
 - [Spatiotemporal mapping of gene expression landscapes and developmental trajectories during zebrafish embryogenesis](https://www.cell.com/developmental-cell/fulltext/S1534-5807(22)00249-0) [https://db.cngb.org/stomics/zesta/]

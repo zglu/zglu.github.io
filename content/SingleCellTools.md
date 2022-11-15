@@ -18,7 +18,7 @@ Selected tools for single-cell and spatial transcriptomics.
 ***
 
 ### spatial transcriptomics
-- Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/)
+- Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data))
 - SSAM (lite): [segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)

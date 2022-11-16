@@ -24,6 +24,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
 - SpaGCN: [spatial domains and SVGs by graph convolutional network](https://github.com/jianhuupenn/SpaGCN)
+- stLearn: [downstream analysis toolkit for Spatial Transcriptomic data](https://stlearn.readthedocs.io/en/latest/)
 - GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
 - SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
 - DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)

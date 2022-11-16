@@ -19,7 +19,6 @@ Selected tools for single-cell and spatial transcriptomics.
 
 ### spatial transcriptomics
 - Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data))
-- SSAM (lite): [segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
@@ -89,13 +88,17 @@ Selected tools for single-cell and spatial transcriptomics.
 
 ***
 ### Cell segmentation
-
-- [CellPose](https://www.cellpose.org/) ([train a model using Cellpose 2.0](https://www.nature.com/articles/s41592-022-01663-4))
-- [DeepCell](https://github.com/vanvalenlab/intro-to-deepcell)
-- [deepImageJ](https://deepimagej.github.io/deepimagej/)
-- [CellProfiler](https://cellprofiler.org/)
-- [ilastik](https://www.ilastik.org/)
-- [NucleAlzer](https://www.nucleaizer.org/)
+- image-based
+  - [CellPose](https://www.cellpose.org/) ([train a model using Cellpose 2.0](https://www.nature.com/articles/s41592-022-01663-4))
+  - [DeepCell](https://github.com/vanvalenlab/intro-to-deepcell)
+  - [deepImageJ](https://deepimagej.github.io/deepimagej/)
+  - [CellProfiler](https://cellprofiler.org/)
+  - [ilastik](https://www.ilastik.org/)
+  - [NucleAlzer](https://www.nucleaizer.org/)
+- gene expression signatures based 
+  - Baysor: [Bayesian segmentation](https://www.biorxiv.org/content/10.1101/2020.10.05.326777v1.full.pdf)
+  - JSTA: [Joint cell segmentation and cell type annotation](https://www.embopress.org/doi/full/10.15252/msb.202010108)
+- SSAM (lite): [segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
 
 ***
 

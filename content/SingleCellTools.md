@@ -18,7 +18,7 @@ Selected tools for single-cell and spatial transcriptomics.
 ***
 
 ### spatial transcriptomics
-- Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data))
+- Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data)) ([GittoSuite](https://giottosuite.readthedocs.io/en/latest/#))
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)

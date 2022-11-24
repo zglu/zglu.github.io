@@ -27,10 +27,10 @@ Selected tools for single-cell and spatial transcriptomics.
 - GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
 - SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
 - DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)
-- Bansky: [incorporating neighborhood information for clustering spatial transcriptomic data](https://github.com/prabhakarlab/Banksy) (R & [Bansky_py](https://github.com/prabhakarlab/Banksy_py))
+- Bansky: [incorporating neighborhood information for clustering spatial transcriptomic data](https://github.com/prabhakarlab/Banksy) (R & [Bansky_py](https://github.com/prabhakarlab/Banksy_py)) ([tutorial](https://prabhakarlab.github.io/Banksy/index.html))
 - RCTD: [Robust Cell Type Decomposition](https://raw.githack.com/dmcable/spacexr/master/vignettes/spatial-transcriptomics.html)
 - C-SIDE: [Cell type-specific inference of differential expression](https://raw.githack.com/dmcable/spacexr/master/vignettes/differential-expression.html) ([spacexr](https://github.com/dmcable/spacexr) = RCTD + C-SIDE; [Vignettes](https://github.com/dmcable/spacexr/tree/master/vignettes))
-- Spateo: [Spatiotemporal modeling of spatial transcriptomics](https://github.com/aristoteleo/spateo-release)
+- Spateo: [Spatiotemporal modeling of spatial transcriptomics](https://github.com/aristoteleo/spateo-release) ([turorial](https://spateo-release.readthedocs.io/en/latest/tutorials/index.html))
 
 ***
 

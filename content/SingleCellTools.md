@@ -36,10 +36,12 @@ Selected tools for single-cell and spatial transcriptomics.
 
 #### Spatial clustering
 - BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
+- SpaGCN
 - DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)
 - Bansky: [incorporating neighborhood information for clustering spatial transcriptomic data](https://github.com/prabhakarlab/Banksy) (R & [Bansky_py](https://github.com/prabhakarlab/Banksy_py)) ([tutorial](https://prabhakarlab.github.io/Banksy/index.html))
 - SEDR: [Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics](https://github.com/JinmiaoChenLab/SEDR)
 - DeepST: (there are 2 tools called DeepST; one is from the [SEDR lab](https://github.com/JinmiaoChenLab/DeepST): [tutorial](https://deepst-tutorials.readthedocs.io/en/latest/) and [second one](https://github.com/JiangBioLab/DeepST))
+- STAGATE: [Deciphering spatial domains with an adaptive graph attention auto-encoder](https://www.nature.com/articles/s41467-022-29439-6)
 
 #### Deconvolution
 - RCTD: [Robust Cell Type Decomposition](https://raw.githack.com/dmcable/spacexr/master/vignettes/spatial-transcriptomics.html)

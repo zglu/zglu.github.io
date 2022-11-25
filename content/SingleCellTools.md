@@ -18,19 +18,39 @@ Selected tools for single-cell and spatial transcriptomics.
 ***
 
 ### spatial transcriptomics
+#### Toolkits
 - Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data)) ([GittoSuite](https://giottosuite.readthedocs.io/en/latest/#))
+- Spateo: [Spatiotemporal modeling of spatial transcriptomics](https://github.com/aristoteleo/spateo-release) ([turorial](https://spateo-release.readthedocs.io/en/latest/tutorials/index.html))
+- Stereopy: [spatial transcriptomics analysis in python](https://stereopy.readthedocs.io/en/latest/index.html)
+- stLearn: [downstream analysis toolkit for Spatial Transcriptomic data](https://stlearn.readthedocs.io/en/latest/)
+- scvi-tools: [probabilistic modeling of single-cell omics data](https://scvi-tools.org/)
+
+#### Spatial data imputation
+- gimVI: [Imputing missing genes in spatial data from scRNA-seq using a deep generative model](https://docs.scvi-tools.org/en/0.8.0/user_guide/notebooks/gimvi_tutorial.html)
+- stPlus: [reference-based method for the accurate enhancement of spatial transcriptomics](http://health.tsinghua.edu.cn/software/stPlus/)
+
+#### Spatial variable genes
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)
-- BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
 - SpaGCN: [spatial domains and SVGs by graph convolutional network](https://github.com/jianhuupenn/SpaGCN)
-- stLearn: [downstream analysis toolkit for Spatial Transcriptomic data](https://stlearn.readthedocs.io/en/latest/)
-- GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
-- SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
+
+#### Spatial clustering
+- BayesSpace: [Clustering and Resolution Enhancement of Spatial Transcriptomes](http://www.bioconductor.org/packages/release/bioc/vignettes/BayesSpace/inst/doc/BayesSpace.html)
 - DSSC: [Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes)](https://github.com/xianglin226/DSSC)
 - Bansky: [incorporating neighborhood information for clustering spatial transcriptomic data](https://github.com/prabhakarlab/Banksy) (R & [Bansky_py](https://github.com/prabhakarlab/Banksy_py)) ([tutorial](https://prabhakarlab.github.io/Banksy/index.html))
+- SEDR: [Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics](https://github.com/JinmiaoChenLab/SEDR)
+- DeepST: (there are 2 tools called DeepST; one is from the [SEDR lab](https://github.com/JiangBioLab/DeepST): [tutorial](https://deepst-tutorials.readthedocs.io/en/latest/) and [second one](https://github.com/JiangBioLab/DeepST))
+
+#### Deconvolution
 - RCTD: [Robust Cell Type Decomposition](https://raw.githack.com/dmcable/spacexr/master/vignettes/spatial-transcriptomics.html)
+
+#### Differential expression
 - C-SIDE: [Cell type-specific inference of differential expression](https://raw.githack.com/dmcable/spacexr/master/vignettes/differential-expression.html) ([spacexr](https://github.com/dmcable/spacexr) = RCTD + C-SIDE; [Vignettes](https://github.com/dmcable/spacexr/tree/master/vignettes))
-- Spateo: [Spatiotemporal modeling of spatial transcriptomics](https://github.com/aristoteleo/spateo-release) ([turorial](https://spateo-release.readthedocs.io/en/latest/tutorials/index.html))
+- Giotto-Gini
+
+#### Cell-cell interactions
+- GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
+- SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
 
 ***
 

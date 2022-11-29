@@ -119,6 +119,7 @@ Selected tools for single-cell and spatial transcriptomics.
   - [CellProfiler](https://cellprofiler.org/)
   - [ilastik](https://www.ilastik.org/)
   - [NucleAlzer](https://www.nucleaizer.org/)
+  - [StarDist](https://github.com/stardist/stardist)
 - gene expression signatures based 
   - Baysor: [Bayesian segmentation](https://www.biorxiv.org/content/10.1101/2020.10.05.326777v1.full.pdf)
   - JSTA: [Joint cell segmentation and cell type annotation](https://www.embopress.org/doi/full/10.15252/msb.202010108)

@@ -98,11 +98,13 @@ Selected tools for single-cell and spatial transcriptomics.
 - ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
 - SciBet: [Single Cell Identificator Based on E-test](http://scibet.cancer-pku.cn/index.html) ([R](http://scibet.cancer-pku.cn/installation.html))
 
-#### Marker-based
+#### Marker-based / gene signature scoring
 
 - AUCell: [cells with active gene sets](https://www.bioconductor.org/packages/devel/bioc/vignettes/AUCell/inst/doc/AUCell.html)
+- UCell: [based on the Mann-Whitney U statistic](https://github.com/carmonalab/UCell)
 - GSEA/GSVA: [gene set enrichment analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-7) ([test](https://github.com/jdime/scRNAseq_cell_cluster_labeling)) (for clusters)
 - SCINA: [Semi-Supervised Cell Type Detection and Assignment](https://lce.biohpc.swmed.edu/scina/) ([R](https://github.com/jcao89757/SCINA)) (for cells)
+- Seurat [AddModuleScore](https://satijalab.org/seurat/reference/addmodulescore)
 - MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
 
 #### Knowledge-based clustering and annotation

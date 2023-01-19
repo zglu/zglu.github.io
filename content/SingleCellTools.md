@@ -53,6 +53,7 @@ Selected tools for single-cell and spatial transcriptomics.
 #### Cell-cell interactions
 - GCNG: [GCN for inferring cell-cell interactions](https://github.com/xiaoyeye/GCNG)
 - SpaOTsc: [spatial optimal transport for SC data](https://www.nature.com/articles/s41467-020-15968-5) ([py](https://github.com/zcang/SpaOTsc))
+- CellChat: [Inference and analysis of cell-cell communication](https://github.com/sqjin/CellChat) [http://www.cellchat.org/]
 
 ***
 

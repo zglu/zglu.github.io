@@ -114,7 +114,7 @@ Selected tools for single-cell and spatial transcriptomics.
  
 
 ***
-### Cell segmentation
+### Cell segmentation & identity
 - image-based
   - [CellPose](https://www.cellpose.org/) ([train a model using Cellpose 2.0](https://www.nature.com/articles/s41592-022-01663-4))
   - [DeepCell](https://github.com/vanvalenlab/intro-to-deepcell)
@@ -127,6 +127,7 @@ Selected tools for single-cell and spatial transcriptomics.
   - Baysor: [Bayesian segmentation](https://www.biorxiv.org/content/10.1101/2020.10.05.326777v1.full.pdf)
   - JSTA: [Joint cell segmentation and cell type annotation](https://www.embopress.org/doi/full/10.15252/msb.202010108)
 - SSAM (lite): [segmentation-free inference of cell types](https://www.nature.com/articles/s41467-021-23807-4)
+- SpiceMix: [cell type composition and spatial organization of cells in complex tissues](https://github.com/ma-compbio/SpiceMix) 
 
 ***
 

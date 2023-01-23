@@ -134,4 +134,4 @@ Selected tools for single-cell and spatial transcriptomics.
 ### Other tools
 
 - sceasy: easy conversion of different single-cell data formats ([R](https://github.com/cellgeni/sceasy))
-
+- [Web portals apps](https://github.com/seandavi/awesome-single-cell#web-portals-apps-and-databases)

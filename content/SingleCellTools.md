@@ -80,11 +80,12 @@ Selected tools for single-cell and spatial transcriptomics.
 - [Seurat interactive plotting](https://satijalab.org/seurat/articles/visualization_vignette.html#interactive-plotting-features-1) (`HoverLocator()`)
 - [Plotly.R](https://plotly.com/r/)
 
-#### Web sharing
+#### Visualisation and Web sharing
 - [UCSC Cell Browser](https://cellbrowser.readthedocs.io/en/master/index.html)
 - [iSEE](https://github.com/iSEE/iSEE) (R)
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene)
 - [Cirrocumulus](https://cirrocumulus.readthedocs.io/en/latest/)
+- [Vitessce](http://vitessce.io/)
 
 ***
 

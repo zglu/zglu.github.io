@@ -87,6 +87,11 @@ Selected tools for single-cell and spatial transcriptomics.
 - [Cirrocumulus](https://cirrocumulus.readthedocs.io/en/latest/)
 - [Vitessce](http://vitessce.io/)
 
+#### Interactive analysis
+- [Asc-Seurat](https://github.com/KirstLab/asc_seurat)
+- [kana](https://github.com/jkanche/kana) [client-side analysis]
+- [ICARUS](https://academic.oup.com/nar/article/50/W1/W427/6583234)
+
 ***
 
 ### Automated cell type annotation [Turorial](https://www.nature.com/articles/s41596-021-00534-0)
@@ -131,11 +136,6 @@ Selected tools for single-cell and spatial transcriptomics.
 - SpiceMix: [cell type composition and spatial organization of cells in complex tissues](https://github.com/ma-compbio/SpiceMix) 
 
 ***
-
-### Interactive analysis
-- [Asc-Seurat](https://github.com/KirstLab/asc_seurat)
-- [kana](https://github.com/jkanche/kana) [client-side analysis]
-- [ICARUS](https://academic.oup.com/nar/article/50/W1/W427/6583234)
 
 ### Other tools
 

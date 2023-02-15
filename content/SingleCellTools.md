@@ -86,6 +86,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene)
 - [Cirrocumulus](https://cirrocumulus.readthedocs.io/en/latest/)
 - [Vitessce](http://vitessce.io/)
+- [TissUUmap](https://tissuumaps.github.io/)
 
 #### Interactive analysis
 - [Asc-Seurat](https://github.com/KirstLab/asc_seurat)

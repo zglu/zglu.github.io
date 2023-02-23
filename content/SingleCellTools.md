@@ -30,6 +30,11 @@ Selected tools for single-cell and spatial transcriptomics.
 - gimVI: [Imputing missing genes in spatial data from scRNA-seq using a deep generative model](https://docs.scvi-tools.org/en/0.8.0/user_guide/notebooks/gimvi_tutorial.html)
 - stPlus: [reference-based method for the accurate enhancement of spatial transcriptomics](http://health.tsinghua.edu.cn/software/stPlus/)
 
+#### Decontamination
+- SpotClean: [a probabilistic model that adjusts for spot swapping](https://github.com/zijianni/SpotClean)
+- DecontX: [decontamination of ambient RNA in single-cell RNA-seq](https://github.com/campbio/celda)
+- SoupX: [removes ambient RNA contamination from droplet-based single-cell RNA-seq](https://github.com/constantAmateur/SoupX)
+
 #### Spatial variable genes
 - SpatialDE: [identification of spatially variable genes](https://github.com/Teichlab/SpatialDE) (py)
 - Spark: [Statistical analysis of spatial expression patterns](https://github.com/xzhoulab/SPARK)

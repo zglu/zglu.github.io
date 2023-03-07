@@ -118,7 +118,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - GSEA/GSVA: [gene set enrichment analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-7) ([test](https://github.com/jdime/scRNAseq_cell_cluster_labeling)) (for clusters)
 - SCINA: [Semi-Supervised Cell Type Detection and Assignment](https://lce.biohpc.swmed.edu/scina/) ([R](https://github.com/jcao89757/SCINA)) (for cells)
 - Seurat [AddModuleScore](https://satijalab.org/seurat/reference/addmodulescore)
-- MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
+- MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA)
 - ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
 
 #### Knowledge-based clustering and annotation

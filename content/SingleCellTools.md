@@ -108,8 +108,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - RCTD/spacexr: [Robust decomposition of cell type mixtures in spatial transcriptomics](https://github.com/dmcable/spacexr) (R)
 - scmap: [unsupervised projection of scRNA-seq data](https://scmap.sanger.ac.uk/han2018/) (R)
 - SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
-- CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD))
-- ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
+- CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD)) (can also use markers)
 - SciBet: [Single Cell Identificator Based on E-test](http://scibet.cancer-pku.cn/index.html) ([R](http://scibet.cancer-pku.cn/installation.html))
 
 #### Marker-based / gene signature scoring
@@ -120,6 +119,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - SCINA: [Semi-Supervised Cell Type Detection and Assignment](https://lce.biohpc.swmed.edu/scina/) ([R](https://github.com/jcao89757/SCINA)) (for cells)
 - Seurat [AddModuleScore](https://satijalab.org/seurat/reference/addmodulescore)
 - MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA) / [ScTypeDB: cell-type marker database](https://www.nature.com/articles/s41467-022-28803-w#Abs1)
+- ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
 
 #### Knowledge-based clustering and annotation
 

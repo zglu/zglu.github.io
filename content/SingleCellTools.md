@@ -107,7 +107,7 @@ Selected tools for single-cell and spatial transcriptomics.
 
 - RCTD/spacexr: [Robust decomposition of cell type mixtures in spatial transcriptomics](https://github.com/dmcable/spacexr) (R)
 - scmap: [unsupervised projection of scRNA-seq data](https://scmap.sanger.ac.uk/han2018/) (R)
-- SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) 
+- SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) (cell/cluster level; also custom markers)
 - CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD)) (can also use markers)
 - SciBet: [Single Cell Identificator Based on E-test](http://scibet.cancer-pku.cn/index.html) ([R](http://scibet.cancer-pku.cn/installation.html))
 
@@ -125,7 +125,6 @@ Selected tools for single-cell and spatial transcriptomics.
 
 - UNIFAN: [using known gene sets + neural network](https://genome.cshlp.org/content/early/2022/06/28/gr.276609.122.long)  
  
-
 ***
 ### Cell segmentation & identity
 - image-based

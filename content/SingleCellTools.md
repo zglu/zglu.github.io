@@ -98,6 +98,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - [Asc-Seurat](https://github.com/KirstLab/asc_seurat)
 - [kana](https://github.com/jkanche/kana) [client-side analysis]
 - [ICARUS](https://academic.oup.com/nar/article/50/W1/W427/6583234)
+- [NASQAR](https://nasqar.abudhabi.nyu.edu/)
 
 ***
 

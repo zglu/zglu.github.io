@@ -120,7 +120,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - SCINA: [Semi-Supervised Cell Type Detection and Assignment](https://lce.biohpc.swmed.edu/scina/) ([R](https://github.com/jcao89757/SCINA)) (for cells)
 - Seurat [AddModuleScore](https://satijalab.org/seurat/reference/addmodulescore)
 - MACA: [marker-based automatic cell-type annotation](https://github.com/ImXman/MACA)
-- ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type))
+- ScType: [fully-automated and ultra-fast cell-type identification](https://www.nature.com/articles/s41467-022-28803-w) ([R](https://github.com/IanevskiAleksandr/sc-type)) (for clusters)
 
 #### Knowledge-based clustering and annotation
 

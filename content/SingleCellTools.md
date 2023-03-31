@@ -111,6 +111,7 @@ Selected tools for single-cell and spatial transcriptomics.
 - SingelR: [Reference-based cell type annotation](http://bioconductor.org/books/release/SingleRBook/introduction.html) (cell/cluster level; also custom markers)
 - CelliD: [clustering-free extraction of per-cell gene signatures](https://www.nature.com/articles/s41587-021-00896-6) ([R](https://github.com/RausellLab/CelliD)) (can also use markers)
 - SciBet: [Single Cell Identificator Based on E-test](http://scibet.cancer-pku.cn/index.html) ([R](http://scibet.cancer-pku.cn/installation.html))
+- TACCO: [optimal transport-based framework for annotation and analysis of single-cell and spatial omics data](nature.com/articles/s41587-023-01657-3) (Py)
 
 #### Marker-based / gene signature scoring
 

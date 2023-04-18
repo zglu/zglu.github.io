@@ -49,9 +49,6 @@ Selected tools for single-cell and spatial transcriptomics.
 - DeepST: (there are 2 tools called DeepST; one is from the [SEDR lab](https://github.com/JinmiaoChenLab/DeepST): [tutorial](https://deepst-tutorials.readthedocs.io/en/latest/) and [second one](https://github.com/JiangBioLab/DeepST))
 - STAGATE: [Deciphering spatial domains with an adaptive graph attention auto-encoder](https://www.nature.com/articles/s41467-022-29439-6)
 
-#### Deconvolution
-- RCTD: [Robust Cell Type Decomposition](https://raw.githack.com/dmcable/spacexr/master/vignettes/spatial-transcriptomics.html)
-
 #### Differential expression
 - C-SIDE: [Cell type-specific inference of differential expression](https://raw.githack.com/dmcable/spacexr/master/vignettes/differential-expression.html) ([spacexr](https://github.com/dmcable/spacexr) = RCTD + C-SIDE; [Vignettes](https://github.com/dmcable/spacexr/tree/master/vignettes))
 - Giotto-Gini

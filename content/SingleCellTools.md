@@ -86,7 +86,7 @@ Selected tools for single-cell and spatial transcriptomics.
 #### Visualisation and Web sharing
 - [UCSC Cell Browser](https://cellbrowser.readthedocs.io/en/master/index.html)
 - [iSEE](https://github.com/iSEE/iSEE) (R)
-- [cellxgene](https://github.com/chanzuckerberg/cellxgene)
+- [cellxgene](https://github.com/chanzuckerberg/cellxgene) ([vip-spatial](https://cellxgenevip-spatial.bxgenomics.com/))
 - [Cirrocumulus](https://cirrocumulus.readthedocs.io/en/latest/)
 - [Vitessce](http://vitessce.io/)
 - [TissUUmap](https://tissuumaps.github.io/)

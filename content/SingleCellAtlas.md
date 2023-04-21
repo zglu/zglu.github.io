@@ -34,3 +34,4 @@ Collection of single cell atlas papers and data portals.
 - http://www.spatialomics.org/SpatialDB/dataset.php
 - https://www.10xgenomics.com/resources/datasets
 - https://db.cngb.org/stomics
+- https://gene.ai.tencent.com/SpatialOmics/

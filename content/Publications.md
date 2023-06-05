@@ -11,6 +11,10 @@ Links to my [Google Scholar](https://scholar.google.com/citations?user=JGrDkIUAA
 <object type="text/html" data="/files/my-pub.html" width="100%" height="430px"></object>
 -->
 
+### 2023
+- Buddenborg SK, **Lu Z**, Sankaranarayanan G, Doyle SR, Berriman M (2023). The stage-and sex-specific transcriptome of the human parasite *Schistosoma mansoni*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.02.539039v1.abstract)
+- Soria CLD, Attenborough T, **Lu Z**, Graham J, et al. (2023). Single cell transcriptomics of the human parasite *Schistosoma mansoni* first intra-molluscan stage reveals tentative tegumental and stem cell regulators. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.02.538881v1.abstract)
+
 ### 2022
 - Buddenborg SK, Tracey A, Berger DJ, **Lu Z**, Doyle SR, Fu B, et al. (2021). Assembled chromosomes of the blood fluke *Schistosoma mansoni* provide insight into the evolution of its ZW sex-determination system. BMC Biol. (in revision) /[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.08.13.456314v1). 2021.08.13.456314
 

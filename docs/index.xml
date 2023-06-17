@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhigang Lu</title>
+    <title>@zglu</title>
     <link>https://zglu.github.io/</link>
-    <description>Recent content on Zhigang Lu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://zglu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications</title>
-      <link>https://zglu.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zglu.github.io/publications/</guid>
-      <description>h-index: 13 Links to my Google Scholar and ResearchGate
- -- 2023  Buddenborg SK, Lu Z, Sankaranarayanan G, Doyle SR, Berriman M (2023). The stage-and sex-specific transcriptome of the human parasite Schistosoma mansoni. bioRxiv Soria CLD, Attenborough T, Lu Z, Graham J, et al. (2023). Single cell transcriptomics of the human parasite Schistosoma mansoni first intra-molluscan stage reveals tentative tegumental and stem cell regulators. bioRxiv  2022  Buddenborg SK, Tracey A, Berger DJ, Lu Z, Doyle SR, Fu B, et al.</description>
-    </item>
-    
-    <item>
-      <title>SingleCellAtlas</title>
-      <link>https://zglu.github.io/singlecellatlas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zglu.github.io/singlecellatlas/</guid>
-      <description>Single Cell Atlas Collection of single cell atlas papers and data portals.
-Mapping cell types across human tissues  Single-nucleus cross-tissue molecular reference maps toward understanding disease gene function [https://singlecell.broadinstitute.org/single_cell/study/SCP1479] The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans [https://tabula-sapiens-portal.ds.czbiohub.org/] Cross-tissue immune cell analysis reveals tissue-specific features in humans [https://www.celltypist.org/] Mapping the developing human immune system across organs Brain Cell Network [https://biccn.org/] Cells of the adult human heart [http://www.heartcellatlas.org/]   Spatio-temporal development of model organisms  Spatial Transcript Omics DataBase (STOmics DB) Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays [https://db.</description>
-    </item>
-    
-    <item>
-      <title>SingleCellTools</title>
-      <link>https://zglu.github.io/singlecelltools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zglu.github.io/singlecelltools/</guid>
-      <description>Selected tools for single-cell and spatial transcriptomics.
-scRNA-seq  ALRA: Zero-preserving imputation HotSpot: identifies informative gene modules (pip install hotspotsc==0.9.1) SCENIC/pySCENIC: Single-cell regulatory network and clustering PROGENy &amp;amp; decoupleR: inference of pathway activities (human &amp;amp; mouse) MetaNeighbor: characterizing the replicability of cell types across datasets (R) SAMap: mapping cell atlas manifolds across species (py) MAGIC: imputing missing values and restoring the structure of single-cell data (R &amp;amp; py) SCTK: Single Cell ToolKit   spatial transcriptomics Toolkits  Giotto: toolbox for integrative analysis of spatial data (datasets) (GittoSuite) Spateo: Spatiotemporal modeling of spatial transcriptomics (turorial) Stereopy: spatial transcriptomics analysis in python stLearn: downstream analysis toolkit for Spatial Transcriptomic data scvi-tools: probabilistic modeling of single-cell omics data  Spatial data imputation  gimVI: Imputing missing genes in spatial data from scRNA-seq using a deep generative model stPlus: reference-based method for the accurate enhancement of spatial transcriptomics  Decontamination  SpotClean: a probabilistic model that adjusts for spot swapping DecontX: decontamination of ambient RNA in single-cell RNA-seq SoupX: removes ambient RNA contamination from droplet-based single-cell RNA-seq  Spatial variable genes  SpatialDE: identification of spatially variable genes (py) Spark: Statistical analysis of spatial expression patterns SpaGCN: spatial domains and SVGs by graph convolutional network  Spatial clustering  BayesSpace: Clustering and Resolution Enhancement of Spatial Transcriptomes SpaGCN DSSC: Deep Spatially constrained Single-cell Clustering (using spatial information and marker genes) Bansky: incorporating neighborhood information for clustering spatial transcriptomic data (R &amp;amp; Bansky_py) (tutorial) SEDR: Unsupervised Spatial Embedded Deep Representation of Spatial Transcriptomics DeepST: (there are 2 tools called DeepST; one is from the SEDR lab: tutorial and second one) STAGATE: Deciphering spatial domains with an adaptive graph attention auto-encoder  Differential expression  C-SIDE: Cell type-specific inference of differential expression (spacexr = RCTD + C-SIDE; Vignettes) Giotto-Gini  Cell-cell interactions  GCNG: GCN for inferring cell-cell interactions SpaOTsc: spatial optimal transport for SC data (py) CellChat: Inference and analysis of cell-cell communication [http://www.</description>
-    </item>
-    
+    <description>Recent content on @zglu</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zglu.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

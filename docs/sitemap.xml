@@ -3,12 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zglu.github.io/</loc>
-    <priority>0</priority>
   </url><url>
-    <loc>https://zglu.github.io/publications/</loc>
+    <loc>https://zglu.github.io/categories/</loc>
   </url><url>
-    <loc>https://zglu.github.io/singlecellatlas/</loc>
-  </url><url>
-    <loc>https://zglu.github.io/singlecelltools/</loc>
+    <loc>https://zglu.github.io/tags/</loc>
   </url>
 </urlset>

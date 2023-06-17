@@ -22,7 +22,7 @@ Selected tools for single-cell and spatial transcriptomics.
 #### Toolkits
 - Giotto: [toolbox for integrative analysis of spatial data](https://rubd.github.io/Giotto_site/) ([datasets](https://github.com/drieslab/spatial-datasets/tree/master/data)) ([GittoSuite](https://giottosuite.readthedocs.io/en/latest/#))
 - Spateo: [Spatiotemporal modeling of spatial transcriptomics](https://github.com/aristoteleo/spateo-release) ([turorial](https://spateo-release.readthedocs.io/en/latest/tutorials/index.html))
-- Stereopy: [spatial transcriptomics analysis in python](https://stereopy.readthedocs.io/en/latest/index.html)
+- Stereopy: [spatial transcriptomics analysis in python](https://stereopy.readthedocs.io/en/latest/)
 - stLearn: [downstream analysis toolkit for Spatial Transcriptomic data](https://stlearn.readthedocs.io/en/latest/)
 - scvi-tools: [probabilistic modeling of single-cell omics data](https://scvi-tools.org/)
 

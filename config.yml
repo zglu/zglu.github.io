@@ -15,7 +15,7 @@ params:
   exitLocation: 'about:blank'
   hidesource: true
   greeting: | 
-    Hello there!
+    Hello there! This is Zhigang's terminal
 
     Type 'help' for a list of available commands
 
@@ -27,16 +27,16 @@ params:
 #      email: "foo@someemail.com"
       homelink: "https://ZhigangLu.com"
       description: |
-              I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics). I also apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
+              I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics),  apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
 
-              Topics include NGS, single-cell and spatial multi-omics, parasites, cancer research, data science.
+               Knowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently in cancer research.
 
 
   education:
-   - courseName: Dr. rer. nat in Biology
+   - courseName: Dr. rer. nat. in Biology
      color: green
      date: Sep 2015
-     institution: JLU Giessen
+     institution: JLU Giessen, Germany
      topic: Isolation, molecular characterisation, and comparative transcriptomics of S. mansoni gonads
 
   skills:
@@ -112,7 +112,7 @@ params:
     - jobTitle: Computational Biologist
       color: orange
       company: 'Wellcome Sanger Institute'
-      location: Hinxton, UK
+      location: UK
       date: Mar 2017 - Jan 2021
       description: Genome assembly and annotation, omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
 
@@ -128,7 +128,7 @@ params:
     - title: (DataViz) Schistosome gene expression database
       date: since 2018
       link: http://schisto.xyz
-      description: RNA-seq based gene expression data for S. mansoni
+      description: RNA-seq gene expression data for S. mansoni
 
     - title: (Coding) Gene functional enrichment analysis
       date: 2021

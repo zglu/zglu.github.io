@@ -15,7 +15,13 @@ jQuery(document).ready(function($) {
 
     /* Functions to be called by commands */
     function about () {
-        term.echo ("@ABOUT");
+        term.echo ("");
+	term.echo (
+		"  ____  __   _                       __   __  __ \n"+
+		" /_  / / /  (_)__ ____ ____  ___ _  / /  / / / /\n"+
+		"  / /_/ _ \\/ / _ `/ _ `/ _ \\/ _ `/ / /__/ /_/ / \n"+
+		" /___/_//_/_/\\_, /\\_,_/_//_/\\_, / /____/\\____/  \n"+
+	        "            /___/          /___/                 \n");
         {{ with .Site.Params.about }} 
             term.echo ("[[b;grey;]Name:]\t\t\t{{ .name }}");
             term.echo ("[[b;grey;]Profession:]\t\t{{ .profession }}");

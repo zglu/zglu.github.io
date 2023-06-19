@@ -53,18 +53,22 @@ jQuery(document).ready(function($) {
 
      
     function about () {
-        term.echo ("@ABOUT");
+        term.echo ("");
+	term.echo (
+		"  ____  __   _                       __   __  __ \n"+
+		" /_  / / /  (_)__ ____ ____  ___ _  / /  / / / /\n"+
+		"  / /_/ _ \\/ / _ `/ _ `/ _ \\/ _ `/ / /__/ /_/ / \n"+
+		" /___/_//_/_/\\_, /\\_,_/_//_/\\_, / /____/\\____/  \n"+
+	        "            /___/          /___/                 \n");
          
             term.echo ("[[b;grey;]Name:]\t\t\tZhigang Lu");
             term.echo ("[[b;grey;]Profession:]\t\tBioinformatics Scientist");
             term.echo ("[[b;grey;]Location:]\t\tDE");
             
             
-                term.echo ("[[b;grey;]Homepage:]\t\thttps:\/\/ZhigangLu.com");
-            
             
                 term.echo ("")
-                term.echo ("I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics),  apply machine learning modelling and do large dataset visualisation (eg. web-sharing). \n\n Knowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently in cancer research.\n")
+                term.echo ("I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics),  apply machine learning modelling and do large dataset visualisation (eg. web-sharing). \n\nKnowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently in cancer research.\n")
             
         
         term.echo ("");
@@ -230,12 +234,12 @@ jQuery(document).ready(function($) {
                 
                 term.echo("")
             
-                var bar_length = Math.round( 50  / 10);
+                var bar_length = Math.round( 60  / 10);
                 var bar_filled = Array(bar_length + 1).join("&#9611;");
                 var bar_blank= Array(11 - bar_length).join("&#9617;");
                 term.echo("[[b;darkorchid;]German:]\n" +
                         "" + bar_filled + bar_blank + 
-                        " " +  50  +"%");
+                        " " +  60  +"%");
                 
                     term.echo("Naturwissenschaftler");
                 

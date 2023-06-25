@@ -102,9 +102,9 @@ params:
       description: Single-cell and spatial multi-omics; cancer research; high-resolution spatial profiling
       #textcolor: grey
 
-    - jobTitle: Data Scientist/Bioinformatician (100% dry)
+    - jobTitle: Bioinformatics Consultant (100% dry)
       color: orange
-      company: 'external'
+      company: 'freelance'
       location: Germany 
       date: Feb 2021  - Jun 2022
       description: Project conception, bioinformatics analysis, scRNA-seq data analysis

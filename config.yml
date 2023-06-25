@@ -94,29 +94,29 @@ params:
 
 
   experience:
-    - jobTitle: Senior Bioinformatics Scientist
+    - jobTitle: Project leader & lead bioinformatician (90% dry + 10% wet)
       color: orange
       company: 'BGI-Research' 
       location: Europe & Africa
       date: July 2022 - Present
-      description: Single-cell and spatial multi-omics; cancer research; development
+      description: Single-cell and spatial multi-omics; cancer research; high-resolution spatial profiling
       #textcolor: grey
 
-    - jobTitle: Data Scientist/Bioinformatician
+    - jobTitle: Data Scientist/Bioinformatician (100% dry)
       color: orange
       company: 'external'
       location: Germany 
       date: Feb 2021  - Jun 2022
       description: Project conception, bioinformatics analysis, scRNA-seq data analysis
 
-    - jobTitle: Computational Biologist
+    - jobTitle: PostDoc / Computational Biologist (80% dry + 20% wet)
       color: orange
       company: 'Wellcome Sanger Institute'
       location: UK
       date: Mar 2017 - Jan 2021
-      description: Genome assembly and annotation, omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
+      description: Single-cell RNA-seq, genome assembly and annotation, omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
 
-    - jobTitle: PostDoc Researcher
+    - jobTitle: PostDoc Researcher (50% dry + 50% wet)
       color: orange
       company: 'JLU Giessen'
       location: Germany

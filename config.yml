@@ -27,7 +27,7 @@ params:
 #      email: "foo@someemail.com"
 #      homelink: "https://ZhigangLu.com"
       description: |
-              I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics),  apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
+              I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics), apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
 
               Knowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently in cancer research.
 

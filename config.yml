@@ -109,14 +109,14 @@ params:
       date: Feb 2021  - Jun 2022
       description: Project conception, bioinformatics analysis, scRNA-seq data analysis
 
-    - jobTitle: PostDoc / Computational Biologist (80% dry + 20% wet)
+    - jobTitle: PostDoc / Computational Biologist (70% dry + 30% wet)
       color: orange
       company: 'Wellcome Sanger Institute'
       location: UK
       date: Mar 2017 - Jan 2021
       description: Single-cell RNA-seq, genome assembly and annotation, omics data analysis and integration, bioinformatics, machine learning modelling, data portal development
 
-    - jobTitle: PostDoc Researcher (50% dry + 50% wet)
+    - jobTitle: PostDoc Researcher (40% dry + 60% wet)
       color: orange
       company: 'JLU Giessen'
       location: Germany

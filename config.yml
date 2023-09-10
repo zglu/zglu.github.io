@@ -29,7 +29,7 @@ params:
       description: |
               I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics), apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
 
-              Knowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently in cancer research.
+              Knowledge and years of experience in NGS, single-cell and spatial multi-omics, bioinformatics, and parasite biology. Currently work in cancer research.
 
 
   education:
@@ -79,8 +79,10 @@ params:
       url: "          https://github.com/zglu"
     - name: "Twitter"
       url: "         https://twitter.com/zglu11"
-    - name: "Linkedin"
+    - name: "LinkedIn"
       url: "        https://www.linkedin.com/in/zhigang-lu3/"
+    - name: "ORCID"
+      url: "           https://orcid.org/0000-0001-6553-5944"
     - name: "ResearchGate"
       url: "    https://www.researchgate.net/profile/Zhigang_Lu3"
     - name: "Google Scholar"

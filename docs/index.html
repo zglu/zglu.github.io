@@ -65,6 +65,8 @@ jQuery(document).ready(function($) {
             term.echo ("[[b;grey;]Profession:]\t\tBioinformatics Scientist");
             term.echo ("[[b;grey;]Location:]\t\tDE");
             
+                term.echo ("[[b;grey;]Email:]\t\t\tzl at zlzyz.com");
+            
             
             
                 term.echo ("")
@@ -176,12 +178,12 @@ jQuery(document).ready(function($) {
                 
                 term.echo ("")
             
-                var bar_length = Math.round( 80  / 10);
+                var bar_length = Math.round( 85  / 10);
                 var bar_filled = Array(bar_length + 1).join("&#9611;");
                 var bar_blank= Array(11 - bar_length).join("&#9617;");
                 term.echo("[[b;darkmagenta;]R:]\n" +
                         bar_filled + bar_blank + 
-                        " " +  80  +"%");
+                        " " +  85  +"%");
                 
                     term.echo("Seurat, SCE, ggplot2, dplyr, etc");
                 
@@ -216,6 +218,15 @@ jQuery(document).ready(function($) {
         term.echo("@LANGUAGES");
         
             
+                var bar_length = Math.round( 100  / 10);
+                var bar_filled = Array(bar_length + 1).join("&#9611;");
+                var bar_blank= Array(11 - bar_length).join("&#9617;");
+                term.echo("[[b;darkorchid;]Chinese:]\n" +
+                        "" + bar_filled + bar_blank + 
+                        " " +  100  +"%");
+                
+                term.echo("")
+            
                 var bar_length = Math.round( 80  / 10);
                 var bar_filled = Array(bar_length + 1).join("&#9611;");
                 var bar_blank= Array(11 - bar_length).join("&#9617;");
@@ -224,15 +235,6 @@ jQuery(document).ready(function($) {
                         " " +  80  +"%");
                 
                     term.echo("The quick fox jumps over the lazy dog");
-                
-                term.echo("")
-            
-                var bar_length = Math.round( 100  / 10);
-                var bar_filled = Array(bar_length + 1).join("&#9611;");
-                var bar_blank= Array(11 - bar_length).join("&#9617;");
-                term.echo("[[b;darkorchid;]Chinese:]\n" +
-                        "" + bar_filled + bar_blank + 
-                        " " +  100  +"%");
                 
                 term.echo("")
             

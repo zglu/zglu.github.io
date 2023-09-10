@@ -24,7 +24,7 @@ params:
       name: "Zhigang Lu"
       profession: "Bioinformatics Scientist"
       location: "DE"
-#      email: "foo@someemail.com"
+      email: "zl at zlzyz.com"
 #      homelink: "https://ZhigangLu.com"
       description: |
               I am a molecular and computational biologist broadly interested in gene expression and regulation, functional genomics, and drug targets discovery. I work on multi-layered omics data (genomics, transcriptomics, epigenomics, single-cell and spatial transcriptomics), apply machine learning modelling and do large dataset visualisation (eg. web-sharing). 
@@ -45,7 +45,7 @@ params:
       description: Classic and efficient for bioinformatics
 
     - name: R
-      percentage: 80
+      percentage: 85
       description: Seurat, SCE, ggplot2, dplyr, etc 
 
     - name: Python
@@ -59,14 +59,14 @@ params:
 
 
   languages:
+    - name: Chinese
+      percentage: 100
+      #description: pasghettipigglywiggly
+
     - name: English
       #color: Blue
       percentage: 80
       description: The quick fox jumps over the lazy dog
-
-    - name: Chinese
-      percentage: 100
-      #description: pasghettipigglywiggly
 
     - name: German
       percentage: 60

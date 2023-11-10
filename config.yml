@@ -146,8 +146,8 @@ params:
   publications:
     - title: The stage-and sex-specific transcriptome of the human parasite Schistosoma mansoni
       year: 2023
-      link: https://doi.org/10.1101/2023.05.02.539039
-      journal: Sci. Data (in press)
+      link: https://doi.org/10.1038/s41597-023-02674-2
+      journal: Sci. Data
 
     - title: Single-cell atlas of the first intra-mammalian developmental stage of the human parasite Schistosoma mansoni
       year: 2020

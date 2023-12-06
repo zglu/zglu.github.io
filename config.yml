@@ -101,7 +101,7 @@ params:
       company: 'BGI-Research' 
       location: Europe & Africa
       date: July 2022 - Present
-      description: Single-cell and spatial multi-omics; cancer research; high-resolution spatial profiling
+      description: Single-cell and spatial multi-omics (STOmics); cloud analysis; cancer research; high-resolution spatial profiling
       #textcolor: grey
 
     - jobTitle: Bioinformatics Consultant (100% dry)

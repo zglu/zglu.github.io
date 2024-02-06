@@ -129,7 +129,7 @@ params:
   projects:
     - title: (DataViz) Schistosome gene expression database
       date: since 2018
-      link: http://schisto.xyz
+      link: https://schisto.xyz
       description: RNA-seq gene expression data for S. mansoni
 
     - title: (Coding) Gene functional enrichment analysis
